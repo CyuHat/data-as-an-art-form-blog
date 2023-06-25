@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "- Data as an art form -\n\nlibrary(aRtsy)\nset.seed(777)\ncanvas_collatz(colors = colorPalette(\"blossom\"),\n               background = \"#000000\",\n               n = 300,\n               angle.even = 0.0275,\n               angle.odd = 0.0845,\n               side = TRUE)\n\n\n\n\nWelcome, art enthusiasts, data aficionados, and the innately curious!\nHave you ever gazed at a sunset, marveling at the explosion of colors as they dance across the canvas of the sky? Perhaps you’ve stood awestruck before the genius of Van Gogh’s “Starry Night,” captivated by the vibrant swirls of the cosmic scenery. And yet, what if I told you that there’s a symphony of beauty to be found in something seemingly mundane, like spreadsheets and databases?\nWelcome to “Data as an Art Form” a unique space where the raw aesthetics of data come to life, and where figures, charts, and plots become the medium for a form of art that’s as compelling as any landscape or still life.\nThis blog is more than just a gallery; it’s a celebration of the inherent beauty in data, revealed through the creation of captivating plots that extend far beyond their statistical significance. Each plot is a masterpiece that tells a story, with every data point an essential character, and each axis a plot twist, all combining to form a narrative that’s as intricate as it is elegant.\nIn “Data as an Art Form” we believe that data visualization is not just a tool for understanding complex information but also a canvas for creativity. Every graph and chart you’ll see here is a blend of artistic flair and rigorous analysis, with aesthetics and insights walking hand-in-hand.\nWhat’s more, for those keen to explore the behind-the-scenes magic, each post will not only display these stunning visualizations, but also share the source code that breathed life into them. This blog is not just about appreciation, but also about creation. For the aspiring data artists among you, we offer context, advice, and tips to refine your craft and create your own visual masterpieces.\nAs you step into the world of “Data as an Art Form” prepare to have your preconceptions about data challenged, as we demonstrate the power of visual storytelling, and the beauty that lies in each plotted line, each colored segment, each meticulously arranged scatter plot.\nWith every visit, I promise you an enchanting journey through the universe of data - a journey filled with revelations, inspiration, and the opportunity to gaze upon the art hidden within the numbers.\nSo, we invite you to stay awhile. Explore. Marvel. Learn.\nWelcome to the intersection of data and art, where beauty isn’t merely seen—it’s discovered."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Vestin Hategekimana",
+    "section": "",
+    "text": "I am Vestin a PhD Candidate in Demography at the University of Geneva\nI am a R Fanatic and a Nim enthusiast!\nOutside of R and Nim I also use/learn other programming languages for different purpose:\n\nJulia for computational heavy tasks and Bayesian inferences (but Stan is amazing!)\nJavaScript for visualization especialy with D3.js and P5.js\nPython for advanced Web scraping and Manim animation (very handy by the way)\n\nI use this blog mainly to post my visualization as a learning process, I hope you will like the sight!"
+  },
+  {
+    "objectID": "about.html#hi-there",
+    "href": "about.html#hi-there",
+    "title": "Vestin Hategekimana",
+    "section": "",
+    "text": "I am Vestin a PhD Candidate in Demography at the University of Geneva\nI am a R Fanatic and a Nim enthusiast!\nOutside of R and Nim I also use/learn other programming languages for different purpose:\n\nJulia for computational heavy tasks and Bayesian inferences (but Stan is amazing!)\nJavaScript for visualization especialy with D3.js and P5.js\nPython for advanced Web scraping and Manim animation (very handy by the way)\n\nI use this blog mainly to post my visualization as a learning process, I hope you will like the sight!"
+  },
+  {
+    "objectID": "about.html#more-about-me",
+    "href": "about.html#more-about-me",
+    "title": "Vestin Hategekimana",
+    "section": "More about me",
+    "text": "More about me\nYou can find more about me in my personnal web page"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data as an art form",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 25, 2023\n\n\nVestin Hategekimana\n\n\n\n\n\n\nNo matching items"
+  }
+]

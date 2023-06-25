@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9049dff3-d772-4d56-b70e-91763739163c
+      url: 'https://cyuhat.quarto.pub/data-as-an-art-form'

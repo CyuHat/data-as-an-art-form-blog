@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Main page"
+  description: This is my blog were I post interesting analysis (and maybe visualizations)
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/CyuHat
+      - icon: twitter
+        href: https://twitter.com/PEcodemo
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vestin-hategekimana/
+      - icon: bi-person-circle
+        href: https://vestin-hategekimana.netlify.app/project/position-ideologique-des-cantons/
+      - icon: youtube
+        href: https://www.youtube.com/@wedata_unige
+      - icon: building-fill
+        href: https://wedata.ch/
+format:
+  html:
+    theme: slate
+    css: styles.css
+
+editor: visual
+

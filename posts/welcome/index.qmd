@@ -1,0 +1,41 @@
+---
+title: "Welcome To My Blog"
+author: "Vestin Hategekimana"
+date: "2023-06-25"
+categories: [news]
+execute: 
+  warning: false
+---
+
+# - Data as an art form -
+
+```{r}
+library(aRtsy)
+set.seed(777)
+canvas_collatz(colors = colorPalette("blossom"),
+               background = "#000000",
+               n = 300,
+               angle.even = 0.0275,
+               angle.odd = 0.0845,
+               side = TRUE)
+```
+
+**Welcome, art enthusiasts, data aficionados, and the innately curious!**
+
+Have you ever gazed at a sunset, marveling at the explosion of colors as they dance across the canvas of the sky? Perhaps you've stood awestruck before the genius of Van Gogh's "Starry Night," captivated by the vibrant swirls of the cosmic scenery. And yet, what if I told you that there's a symphony of beauty to be found in something seemingly mundane, like spreadsheets and databases?
+
+Welcome to **"Data as an Art Form"** a unique space where the raw aesthetics of data come to life, and where figures, charts, and plots become the medium for a form of art that's as compelling as any landscape or still life.
+
+This blog is **more than just a gallery**; it's a celebration of the inherent beauty in data, revealed through the creation of captivating plots that extend far beyond their statistical significance. Each plot is a masterpiece that tells a story, with every data point an essential character, and each axis a plot twist, all combining to form a narrative that's as intricate as it is elegant.
+
+In **"Data as an Art Form"** we believe that data visualization is not just a tool for understanding complex information but also a **canvas for creativity**. Every graph and chart you'll see here is a blend of artistic flair and rigorous analysis, with aesthetics and insights walking hand-in-hand.
+
+What's more, for those keen to explore the behind-the-scenes magic, each post will not only display these stunning visualizations, but also share the **source code** that breathed life into them. This blog is not just about appreciation, but also about creation. For the **aspiring data artists** among you, we offer context, advice, and tips to refine your craft and create your own visual masterpieces.
+
+As you step into the world of **"Data as an Art Form"** prepare to have your preconceptions about data challenged, as we demonstrate the power of visual storytelling, and the beauty that lies in each plotted line, each colored segment, each meticulously arranged scatter plot.
+
+With every visit, I promise you an enchanting journey through the universe of data - a journey filled with revelations, inspiration, and the opportunity to gaze upon the art hidden within the numbers.
+
+So, we invite you to stay awhile. Explore. Marvel. Learn.
+
+**Welcome to the intersection of data and art, where beauty isn't merely seen---it's discovered.**

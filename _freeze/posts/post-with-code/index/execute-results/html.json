@@ -1,0 +1,16 @@
+{
+  "hash": "924ea4386d4f2e573d5fb9e7f2b2cd5b",
+  "result": {
+    "markdown": "---\ntitle: \"Test titre\"\nauthor: \"Vestin Hategekimana\"\ndate: \"2023-06-25\"\ncategories: [news, code, analysis, test]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\nPourquoi le contenu de la page ne change pas?\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# library(echarts4r)\n# \n# df <- state.x77 |> \n#   as.data.frame() |> \n#   tibble::rownames_to_column(\"State\")\n# \n# df |> \n#   e_charts(State) |> # initialise and set x\n#   e_line(Population, smooth = TRUE) |>  # add a line\n#   e_area(Income, smooth = TRUE) |>  # add area\n#   e_x_axis(name = \"States\") |>  # add x axis name\n#   e_title(\"US States\", \"Population & Income\") |>  # Add title & subtitle\n#   e_theme(\"infographic\") |>  # theme\n#   e_legend(right = 0) |> # move legend to the bottom\n#   e_tooltip(\n#     axisPointer = list(\n#       type = \"cross\"\n#     )\n#   ) \n```\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

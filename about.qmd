@@ -1,0 +1,47 @@
+---
+title: "Vestin Hategekimana"
+image: profile.jpg
+about:
+  template: marquee
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PEcodemo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vestin-hategekimana/
+    - icon: github
+      text: CyuHat
+      href: https://github.com/CyuHat
+    - icon: bi-person-circle
+      text: Web page
+      href: https://vestin-hategekimana.netlify.app/project/position-ideologique-des-cantons/
+    - icon: youtube
+      text: WeData
+      href: https://www.youtube.com/@wedata_unige
+    - icon: building-fill
+      text: WeData
+      href: https://wedata.ch/
+---
+
+## Hi there!
+
+I am **Vestin** a PhD Candidate in Demography at the University of Geneva
+
+I am a **R Fanatic** and a **Nim enthusiast**!
+
+Outside of **R** and **Nim** I also use/learn other programming languages for different purpose:
+
+-   **Julia** for computational heavy tasks and Bayesian inferences (but Stan is amazing!)
+
+-   **JavaScript** for visualization especialy with **D3.js** and **P5.js**
+
+-   **Python** for advanced Web scraping and Manim animation (very handy by the way)
+
+I use this blog mainly to post my **visualization** as a learning process, I hope you will like the sight!
+
+## More about me
+
+You can find more about me in [my personnal web page](https://vestin-hategekimana.netlify.app/project/position-ideologique-des-cantons/)
